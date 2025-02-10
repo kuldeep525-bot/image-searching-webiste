@@ -1,2 +1,7 @@
 # image-searching-webiste
-using html5,css and javascript vanilla
+This is a basic project using HTML, CSS and JavaScript.
+
+In this project, the focus has been on API calls.
+
+unplash.com used for fetch the api.
+unplash.com is a free api to fetch the data.
